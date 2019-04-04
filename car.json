@@ -1,0 +1,23 @@
+{
+  "model": "BMW",
+  "price": 11220,
+  "mileage": 140,
+  "engine": {
+    "type": "DIESEL",
+    "power": 2113.0
+  },
+  "carBody": {
+    "color": "WHITE",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING",
+      "RADIO"
+    ]
+  },
+  "wheel": {
+    "type": "SUMMER",
+    "model": "PIRELLI",
+    "size": 18
+  }
+}

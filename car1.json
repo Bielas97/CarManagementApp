@@ -1,0 +1,22 @@
+{
+  "model": "VOLKSWAGEN",
+  "price": 11200,
+  "mileage": 1100,
+  "engine": {
+    "type": "DIESEL",
+    "power": 240.0
+  },
+  "carBody": {
+    "color": "WHITE",
+    "type": "HATCHBACK",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING"
+    ]
+  },
+  "wheel": {
+    "type": "WINTER",
+    "model": "PIRELLI",
+    "size": 18
+  }
+}
